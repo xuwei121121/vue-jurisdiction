@@ -62,7 +62,7 @@
 <script>
 import { mapMutations } from 'vuex';
 import { initDnameicRoutes } from '../router/index'
-//利用辅助函数实现存data
+//利用辅助函数实现存
 export default {
   name,
   data () {
